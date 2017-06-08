@@ -19,7 +19,7 @@
 		3B60FB4D1EE817060044BE7F /* JWApp.m in Sources */ = {isa = PBXBuildFile; fileRef = 3B60FB4C1EE817060044BE7F /* JWApp.m */; };
 		3B60FB4F1EE83BB90044BE7F /* JWAppView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3B60FB4E1EE83BB90044BE7F /* JWAppView.xib */; };
 		3B60FB521EE83D5A0044BE7F /* JWAppView.m in Sources */ = {isa = PBXBuildFile; fileRef = 3B60FB511EE83D5A0044BE7F /* JWAppView.m */; };
-		3BCC69731EE8F54E000056F9 /* IOS九宫格练习.md in Sources */ = {isa = PBXBuildFile; fileRef = 3BCC69721EE8F54E000056F9 /* IOS九宫格练习.md */; };
+		3BCC69731EE8F54E000056F9 /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = 3BCC69721EE8F54E000056F9 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -62,7 +62,7 @@
 		3B60FB4E1EE83BB90044BE7F /* JWAppView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = JWAppView.xib; sourceTree = "<group>"; };
 		3B60FB501EE83D5A0044BE7F /* JWAppView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JWAppView.h; sourceTree = "<group>"; };
 		3B60FB511EE83D5A0044BE7F /* JWAppView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JWAppView.m; sourceTree = "<group>"; };
-		3BCC69721EE8F54E000056F9 /* IOS九宫格练习.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = "IOS九宫格练习.md"; sourceTree = "<group>"; };
+		3BCC69721EE8F54E000056F9 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,7 +97,7 @@
 				3B60FB2F1EE7C5FD0044BE7F /* 九宫格ViewTests */,
 				3B60FB3A1EE7C5FD0044BE7F /* 九宫格ViewUITests */,
 				3B60FB141EE7C5FD0044BE7F /* Products */,
-				3BCC69721EE8F54E000056F9 /* IOS九宫格练习.md */,
+				3BCC69721EE8F54E000056F9 /* README.md */,
 			);
 			sourceTree = "<group>";
 		};
@@ -325,7 +325,7 @@
 			files = (
 				3B60FB4D1EE817060044BE7F /* JWApp.m in Sources */,
 				3B60FB1E1EE7C5FD0044BE7F /* ViewController.m in Sources */,
-				3BCC69731EE8F54E000056F9 /* IOS九宫格练习.md in Sources */,
+				3BCC69731EE8F54E000056F9 /* README.md in Sources */,
 				3B60FB521EE83D5A0044BE7F /* JWAppView.m in Sources */,
 				3B60FB1B1EE7C5FD0044BE7F /* AppDelegate.m in Sources */,
 				3B60FB181EE7C5FD0044BE7F /* main.m in Sources */,
